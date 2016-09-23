@@ -6,7 +6,7 @@ assets:
     - _assets/stylesheets
     - _vendor/
 
-baseurl: /
+baseurl: siteclone/
 
 exclude:
   - .bowerrc
@@ -25,8 +25,8 @@ gems:
   - jekyll-assets
   - jekyll-sitemap
 
-name: neublocpl
+name: siteclone
 
 permalink: pretty
 
-url: # add site url
+url: https://pyram.github.io/
